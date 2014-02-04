@@ -1,0 +1,12 @@
+packages
+.project
+*.iml
+*.ipr
+*.iws
+.idea/
+*.dart.js
+*.dart.precompiled.js
+*.js_
+*.js.deps
+*.js.map
+node_modules

@@ -1,0 +1,4 @@
+name: kickorkissserver
+description: A sample command-line application
+dependencies:
+  route: any
